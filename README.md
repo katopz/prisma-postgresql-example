@@ -1,7 +1,7 @@
 # prisma-postgresql-example
 Prisma with PostgreSQL example
 
-Prerequisites
+## Prerequisites
 - Docker
 
 ### Install the Prisma CLI
